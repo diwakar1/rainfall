@@ -1,0 +1,26 @@
+Algorithm
+-----------------------------------------------------------
+
+inputs
+lengths of footprint of the roof.
+widths of rainfall.
+
+
+processing
+take the lengths of the footprint of the roof.
+convert the lengths in to inches.
+take the number of widths inches of rainfall.
+Multiply the roof lengths by the number of  wideth inches of rainfall.
+divide all total inches by 231 to get the number of gallons.
+
+
+output 
+print the water runs off a roof in gallon
+
+psedocode
+set the  lenghts of dimentions of the footprint of the roof from user.
+convert the lengths dimensions of footprint of the roof in to inches.
+set the wideth of number of inches of rainfall from user.
+multiply the footprint of roof inches by the number of inches of rainfall.
+devide total roof dimentions by 231 to get gallons.
+print the water runoff of a roof in gallons.
